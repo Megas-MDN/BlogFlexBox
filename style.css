@@ -98,7 +98,11 @@ img {
 }
 
 .ul-menu a:hover {
-  color: #122ab2;
+  color: black;
+  border-top: 3px solid black;
+  border-bottom: 3px solid black;
+  background: rgba(255, 255, 255, 0.534);
+  opacity: 1;
   /* font-weight: bold; */
 }
 
