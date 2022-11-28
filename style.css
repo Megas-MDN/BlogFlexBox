@@ -8,6 +8,7 @@
 body {
   font-family: "Nunito", Arial, Helvetica, sans-serif;
   color: #222222;
+  background: rgb(25,27,27);
 }
 
 ul, ol {
